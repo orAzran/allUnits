@@ -8,6 +8,10 @@
 
 #import <SenTestingKit/SenTestingKit.h>
 
+#import "ViewController.h"
+
 @interface uniTestingTests : SenTestCase
+
+@property (weak, nonatomic) ViewController *vc;
 
 @end
