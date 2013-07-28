@@ -41,4 +41,10 @@
     STAssertTrue([[self.vc mapView]showsUserLocation] == YES, @"map View user location is hidden");
 }
 
+- (void)testallTest
+{
+    STAssertTrue(NO, @"this is no");
+}
+
+
 @end

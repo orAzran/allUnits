@@ -27,7 +27,7 @@
 
 - (void)testExample
 {
-    //STFail(@"Unit tests are not implemented yet in LogicTest");
+    STFail(@"Unit tests are not implemented yet in LogicTest");
 }
 
 @end
