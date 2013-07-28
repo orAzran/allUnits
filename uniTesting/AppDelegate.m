@@ -18,7 +18,6 @@
     //new code
     //Yeah!!!
     //KOOOOOOOO ko ko ko
-    ocb
     return YES;
 }
 							
