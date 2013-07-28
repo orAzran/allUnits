@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F4A438D17A54CE700ED8185 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB2F5BF17A53F0A0086E617 /* MapKit.framework */; };
 		5FB2F55C17A53D3C0086E617 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB2F55B17A53D3C0086E617 /* UIKit.framework */; };
 		5FB2F55E17A53D3C0086E617 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB2F55D17A53D3C0086E617 /* Foundation.framework */; };
 		5FB2F56017A53D3C0086E617 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB2F55F17A53D3C0086E617 /* CoreGraphics.framework */; };
@@ -79,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F4A438D17A54CE700ED8185 /* MapKit.framework in Frameworks */,
 				5FB2F55C17A53D3C0086E617 /* UIKit.framework in Frameworks */,
 				5FB2F55E17A53D3C0086E617 /* Foundation.framework in Frameworks */,
 				5FB2F56017A53D3C0086E617 /* CoreGraphics.framework in Frameworks */,
@@ -589,6 +591,7 @@
 				5FB2F59217A53D3D0086E617 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FB2F59317A53D3D0086E617 /* Build configuration list for PBXNativeTarget "uniTestingTests" */ = {
 			isa = XCConfigurationList;
@@ -597,6 +600,7 @@
 				5FB2F59517A53D3D0086E617 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FB2F5A917A53D9E0086E617 /* Build configuration list for PBXNativeTarget "LogicTest" */ = {
 			isa = XCConfigurationList;
@@ -605,6 +609,7 @@
 				5FB2F5AB17A53D9E0086E617 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
