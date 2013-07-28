@@ -506,6 +506,7 @@
 				GCC_PREFIX_HEADER = "uniTesting/uniTesting-Prefix.pch";
 				INFOPLIST_FILE = "uniTesting/uniTesting-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -517,6 +518,7 @@
 				GCC_PREFIX_HEADER = "uniTesting/uniTesting-Prefix.pch";
 				INFOPLIST_FILE = "uniTesting/uniTesting-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_AFTER_BUILD = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

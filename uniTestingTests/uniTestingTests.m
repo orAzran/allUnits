@@ -26,7 +26,6 @@
 - (void)tearDown
 {
     // Tear-down code here.
-    
     [super tearDown];
     self.vc = nil;
 }
